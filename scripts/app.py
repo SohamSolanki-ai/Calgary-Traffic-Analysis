@@ -10,7 +10,7 @@ import seaborn as sns
 st.set_page_config(page_title="Calgary Traffic Incidents Dashboard", layout="wide")
 
 # Load the cleaned dataset
-file_path = "/Users/sohamsolanki/Desktop/Calgary_Traffic_Analysis/data/Cleaned_Traffic_data.csv"
+file_path = "data/Cleaned_Traffic_data.csv"
 df = pd.read_csv(file_path)
 
 # Sidebar Filters
