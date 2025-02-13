@@ -73,7 +73,7 @@ streamlit run app.py
 ### **3️⃣ Common Incident Types**
 - Accidents & Traffic Jams are the most reported.
 - Many incidents involve **stalled vehicles & lane blocking**.
-- 
+  
 ---
 
 ## 📬 Contact
